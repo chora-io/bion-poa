@@ -1,3 +1,3 @@
-# biome-poa
+# bion-poa
 
-proof-of-authority blockchain application
+proof-of-authority blockchain example
